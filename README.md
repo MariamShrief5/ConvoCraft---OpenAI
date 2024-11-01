@@ -38,5 +38,7 @@ https://drive.google.com/file/d/1hFpciYJ8vJbLf1mqtCifdRFuCbcJ01rZ/view?usp=shari
 ![Screenshot 1](https://drive.google.com/uc?export=view&id=1JUknhjN2LW6LBGHNHtSaELxxiKmj9-MI)    
 # Light Mode 
 ![Screenshot 2](https://drive.google.com/uc?export=view&id=1smzI9aq9JCx-F2lTr91PNzMgyowdDDpI)
-# Ask a Question and Show a Loading Animation while waiting the API response
+# Ask a Question and Show a Loading Animation while waiting the API Response
 ![Screenshot 3](https://drive.google.com/uc?export=view&id=1hFpciYJ8vJbLf1mqtCifdRFuCbcJ01rZ)
+# Disapper a Loading Animation and Show API Response 
+![Screenshot 4](https://drive.google.com/uc?export=view&id=1PCrE6mzMqqzWc-7Sc1mjVzcmJYo2pvtC)
