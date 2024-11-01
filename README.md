@@ -32,3 +32,5 @@ The project currently supports integration with external APIs, like the Gemini A
 - JavaScript: For handling interactivity, API calls, and response processing.
 # Demo:
 https://github.com/user-attachments/assets/90c68edd-2ad0-4fe5-8656-b7713f3e390d
+# Screenshots:
+https://drive.google.com/file/d/1JUknhjN2LW6LBGHNHtSaELxxiKmj9-MI/view?usp=sharing
