@@ -39,4 +39,4 @@ https://drive.google.com/file/d/1hFpciYJ8vJbLf1mqtCifdRFuCbcJ01rZ/view?usp=shari
 # Light Mode 
 ![Screenshot 2](https://drive.google.com/uc?export=view&id=1smzI9aq9JCx-F2lTr91PNzMgyowdDDpI)
 # Ask a Question and Show a Loading Animation while waiting the API response
-![Screenshot 3](https://drive.google.com/uc?export=view&id=[1hFpciYJ8vJbLf1mqtCifdRFuCbcJ01rZ])
+![Screenshot 3](https://drive.google.com/uc?export=view&id=1hFpciYJ8vJbLf1mqtCifdRFuCbcJ01rZ)
