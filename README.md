@@ -23,8 +23,8 @@ The project currently supports integration with external APIs, like the Gemini A
    - **Modular Code Structure**: Code is structured to allow easy updates, with separate files for HTML, CSS, and JavaScript.
 
 ### Example Usage
-- User asks: "What's the weather like in New York?"
-- ConvoCraft fetches real-time weather data from Gemini API and responds with the current weather details.
+- User asks: "Can you help me find the latest news on web development?"
+- ConvoCraft Sure! Here’s a quick summary of recent trends: AI-driven development, headless CMS adoption, and the growing importance of web accessibility. For more details, I can pull current articles or updates.
   
 # Tools and Technologies:
 - HTML: For structuring the webpage layout.
