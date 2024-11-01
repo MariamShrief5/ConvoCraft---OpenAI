@@ -37,7 +37,4 @@ CSS is used to style each aspect of ConvoCraft’s layout, including the chat bu
     Clone the repository: git clone https://github.com/yourusername/ConvoCraft.git
     Open index.html in any web browser to start using ConvoCraft.
     You can also customize the response patterns by modifying the JavaScript file.
-# Technologies Used
-    HTML: Provides the structural foundation of the application. It organizes elements for easy navigation and ensures accessible layout.
-    CSS: Used for styling the application. CSS styles bring ConvoCraft to life with a clean, responsive design that works on multiple devices.
-    JavaScript: Powers the functionality of ConvoCraft. JavaScript is used to handle user inputs, generate responses, and create an interactive conversation experience.
+# used
