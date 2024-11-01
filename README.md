@@ -33,9 +33,10 @@ The project currently supports integration with external APIs, like the Gemini A
 # Demo:
 https://github.com/user-attachments/assets/90c68edd-2ad0-4fe5-8656-b7713f3e390d
 # Screenshots:
+https://drive.google.com/file/d/1hFpciYJ8vJbLf1mqtCifdRFuCbcJ01rZ/view?usp=sharing
 # Dark Mode
 ![Screenshot 1](https://drive.google.com/uc?export=view&id=1JUknhjN2LW6LBGHNHtSaELxxiKmj9-MI)    
 # Light Mode 
 ![Screenshot 2](https://drive.google.com/uc?export=view&id=1smzI9aq9JCx-F2lTr91PNzMgyowdDDpI)
 # Ask a Question and Show a Loading Animation while waiting the API response
-![Screenshot 3](https://drive.google.com/uc?export=view&id=90c68edd-2ad0-4fe5-8656-b7713f3e390d)
+![Screenshot 3](https://drive.google.com/uc?export=view&id=[1hFpciYJ8vJbLf1mqtCifdRFuCbcJ01rZ])
