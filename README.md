@@ -30,3 +30,5 @@ The project currently supports integration with external APIs, like the Gemini A
 - HTML: For structuring the webpage layout.
 - CSS: For styling the user interface.
 - JavaScript: For handling interactivity, API calls, and response processing.
+# Demo:
+https://drive.google.com/file/d/1uAjLzEW1KreGoLu3NQ4vAYyDSs_pgyvG/view?usp=sharing
