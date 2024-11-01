@@ -43,8 +43,7 @@ https://github.com/user-attachments/assets/90c68edd-2ad0-4fe5-8656-b7713f3e390d
 ![Screenshot 4](https://drive.google.com/uc?export=view&id=1PCrE6mzMqqzWc-7Sc1mjVzcmJYo2pvtC)
 # Another Questions 
 ![Screenshot 5](https://drive.google.com/uc?export=view&id=1FpouMxZeA_-RtuBber7a1lCPEFjvTrAy)
-# You can choose One Question From 4 Crads in The First Page Such This Question, I hover on it:
+# You can choose One Question From 4 Crads in The First Page Such This Question, I Focus on it:
 ![Screenshot 6](https://drive.google.com/uc?export=view&id=1w32amWLo08T9XAic87LA1CoCPFy97Eyg)
-# Once you Click on it!, ConvoCraft show For You a Response in The Question Dynamic
+# Once you Click on it!, ConvoCraft show For You a Response in Dynamic Way
 ![Screenshot 7](https://drive.google.com/uc?export=view&id=1qblK6JJwdnHpM_lk3iCNhvfNwfC6bIf-)
-@$
