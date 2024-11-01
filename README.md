@@ -1,5 +1,5 @@
 # ConvoCraft 
-ConvoCraft is an interactive web application inspired by conversational AI models like OpenAI's ChatGPT. Built with HTML, CSS, and JavaScript, ConvoCraft allows users to engage in simulated conversational interactions through a responsive, sleek, and user-friendly interface.
+ConvoCraft is an interactive web application inspired by conversational AI models like OpenAI's ChatGPT. Built with HTML, CSS, and JavaScript, allows users to engage in simulated conversational interactions through a responsive, sleek, and user-friendly interface.
     
 # Project Description:
 ConvoCraft serves as an exploration into the world of conversational AI using core web technologies (HTML, CSS, JavaScript). While it doesn’t use machine learning models directly, it emulates basic conversational responses through predefined commands and logic.
