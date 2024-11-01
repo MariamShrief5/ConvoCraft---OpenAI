@@ -38,4 +38,4 @@ https://github.com/user-attachments/assets/90c68edd-2ad0-4fe5-8656-b7713f3e390d
 # Light Mode 
 ![Screenshot 2](https://drive.google.com/uc?export=view&id=1smzI9aq9JCx-F2lTr91PNzMgyowdDDpI)
 # Ask Question and Show a Loading Animation while waiting the API response
-![Screenshot 1](https://drive.google.com/uc?export=view&id=90c68edd-2ad0-4fe5-8656-b7713f3e390d)
+![Screenshot 3](https://drive.google.com/uc?export=view&id=90c68edd-2ad0-4fe5-8656-b7713f3e390d)
