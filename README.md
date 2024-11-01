@@ -31,7 +31,5 @@ The project currently supports integration with external APIs, like the Gemini A
 - CSS: For styling the user interface.
 - JavaScript: For handling interactivity, API calls, and response processing.
 # Demo:
-
-https://github.com/user-attachments/assets/f8d301aa-9f35-437e-b91f-53d664e3bc24
-
+https://github.com/user-attachments/assets/ConvoCraft-OpenAI
 
